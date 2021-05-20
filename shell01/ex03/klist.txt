@@ -1,0 +1,5 @@
+Credentials cache: API:EA42027B-3592-4C7E-9A36-3C65B02CA839
+        Principal: gscalisi@42NICE.FR
+
+  Issued                Expires             Flags    Principal
+Feb  8 13:30:47 2021  Feb  8 23:30:27 2021  FPIA   krbtgt/42NICE.FR@42NICE.FR
